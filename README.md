@@ -14,9 +14,8 @@
 
 | Name | Student ID | Role | Contribution |
 |------|------------|------|-------------|
-|Hồ Lý Đức    |B22DCCN226            |      |             |
-|Mã Kim Dũng    |B22DCCN130            |      |             |
-|Phạm Lý Ngọc Đức    |B22DCCN238            |      |             |
+|      |            |      |             |
+
 
 ---
 
